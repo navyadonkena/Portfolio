@@ -250,7 +250,7 @@ section.block{padding:var(--section-pad) 0}
 
 /* FOOTER */
 .site-foot{background:var(--accent);color:rgba(255,255,255,.88);margin-top:0;padding-top:var(--space-8);position:relative;overflow:hidden}
-.foot-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr 1.1fr;gap:var(--space-7)}
+.foot-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr 1.1fr;gap:var(--space-7)}
 .foot-brand{padding-right:20px}
 .foot-logo{display:flex;align-items:center;gap:12px;margin-bottom:18px}
 .foot-mark{width:38px;height:38px;border-radius:10px;background:#fff;color:var(--accent);display:flex;align-items:center;justify-content:center;font-family:'Sora';font-weight:800;font-size:17px;flex:none}
